@@ -1,0 +1,5 @@
+Scripts utilizados para la realización del Trabajo de Fin de Grado: Caracterización funcional del Melanoma Metastásico Cerebral (MMC) mediante el análisis masivo. 
+
+Concretamente para la descarga de los estudios GSE60464 y GSE46517 desde la base de datos GEO, su análisis exploratorio y preparación de los inputs con el formato requerido para la herramienta MetaFun: https://bioinfo.cipf.es/metafun
+
+Cristina Magán Torres
